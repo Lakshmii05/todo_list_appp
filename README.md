@@ -84,7 +84,7 @@ This project was created to practice and demonstrate **Flutter application devel
 
 ## 👩‍💻 Developer
 
-**Lakshmi K S**
+**Rajalakshmi K S**
 
 GitHub: https://github.com/Lakshmii05
 
