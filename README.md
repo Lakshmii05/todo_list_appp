@@ -25,14 +25,7 @@ The app allows users to create, manage, complete, and delete tasks through a cle
 
 ## 📱 Screenshots
 
-## 📱 Screenshots
-
-<p align="center">
-  <img src="./screenshots/task-list.png" width="220" alt="Task list" />
-  <img src="./screenshots/completed-task.png" width="220" alt="Completed task" />
-  <img src="./screenshots/deleted-task.png" width="220" alt="Deleted task" />
-  <img src="./screenshots/navigation-drawer.png" width="220" alt="Navigation drawer" />
-</p>
+Screenshots will be added soon.
 
 ## 🚀 Getting Started
 
